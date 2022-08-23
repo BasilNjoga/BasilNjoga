@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Basil Njoga
-#### I am a Software Engineer and a prospective full stack developer
-I am an up incoming software engineer and full stack developer currently taking the ALX software engineering course along with other things on the side with the hope of becoming a fully able computer and software engineer
+#### I am a Computer and Software Engineer, and a prospective full stack developer
+I am an up incoming Electrical, Computer and Software engineer and full stack developer currently taking multiple software engineering courses along with my Electrical and Computer engineering course with the hope of becoming a fully able and reliable electrical, computer and software engineer
 
 Skills: PYTHON / C / C++ / MYSQL / HTML / CSS
 
-- 🔭 I’m currently working on ALX SOFTWARE ENGINEERING COURSE 
-- 🌱 I’m currently learning PYHON, C, FULLSTACK DEVELOPMENT 
+- 🔭 I’m currently working on Data structures, Algorithms, Object Oriented programming, imbedded systems
+- 🌱 I’m currently learning PYHON, C, C++, MySQL
 - 👯 I’m looking to collaborate on OPEN SOURCE PROJECTS 
 - 🤔 I’m looking for help with ANTHING REALLY, I'M OPEN TO SUGGESTIONS FOR IMPROVEMENT 
 - 😄 Pronouns: HE/ HIM 

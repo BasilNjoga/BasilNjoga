@@ -4,7 +4,7 @@ I am an up incoming Electrical, Computer and Software engineer and full stack de
 
 Skills: PYTHON / C / C++ / MYSQL / HTML / CSS
 
-- 🔭 I’m currently working on Data structures, Algorithms, Object Oriented programming, imbedded systems
+- 🔭 I’m currently working on Data structures, Algorithms, Object Oriented programming, embedded systems
 - 🌱 I’m currently learning PYHON, C, C++, MySQL
 - 👯 I’m looking to collaborate on OPEN SOURCE PROJECTS 
 - 🤔 I’m looking for help with ANTHING REALLY, I'M OPEN TO SUGGESTIONS FOR IMPROVEMENT 

@@ -1,8 +1,8 @@
 ### Hi there 👋, my name is Basil Njoga
-#### I am a Computer and Software Engineer, and a prospective full stack developer
-I am an up incoming Electrical, Computer and Software engineer and full stack developer currently taking multiple software engineering courses along with my Electrical and Computer engineering course with the hope of becoming a fully able and reliable electrical, computer and software engineer
+#### ELECTRONICS AND COMPUTER ENGINEER
+I am an up incoming Electrical, Computer and Software engineer 
 
-Skills: PYTHON / C / C++ / MYSQL / HTML / CSS
+Skills: PYTHON / C 
 
 - 🔭 I’m currently working on Data structures, Algorithms, Object Oriented programming, embedded systems
 - 🌱 I’m currently learning PYHON, C, C++, MySQL

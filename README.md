@@ -2,7 +2,7 @@
 #### ELECTRICAL, COMPUTER AND SOFTWARE ENGINEER
 I am an up incoming Electrical, Computer and Software engineer 
 
-Skills: PYTHON / C 
+Skills: Fullstack Development, Data science and Embedded systems
 
 - 🔭 I’m currently working on Data structures, Algorithms, Object Oriented programming, embedded systems
 - 🌱 I’m currently learning PYHON, C, C++, MySQL

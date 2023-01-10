@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Basil Njoga
+### Hi there 👋, my name is Basil John Njoga
 #### ELECTRICAL, COMPUTER AND SOFTWARE ENGINEER
 I am an up incoming Electrical, Computer and Software engineer 
 

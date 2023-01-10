@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Basil Njoga
-#### ELECTRONICS AND COMPUTER ENGINEER
+#### ELECTRICAL, COMPUTER AND SOFTWARE ENGINEER
 I am an up incoming Electrical, Computer and Software engineer 
 
 Skills: PYTHON / C 

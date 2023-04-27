@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Basil John Njoga
-<br/>
-### I am a computer engineer
+
+### Hey
 
 Skills: Fullstack Development, Data analytics , mechine learning, embedded systems
 

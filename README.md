@@ -3,14 +3,20 @@
 </div>
   
 
-### <div align="center">Hey, I'm Basil, a Computer and Software Engineer 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>  
+### <div align="center">Hey, I'm Basil, a Computer and Software Engineer 👨‍💻 </div>  
   
 
-Skills: Fullstack Development, Data analytics , mechine learning, embedded systems
 
--  I’m currently working on building fullstack architecture with artificial intelligence systems in backend
--  I’m looking to collaborate on anything really, feel free to contribute :)
+- 🌱 I’m currently working on Fullstack Web and Mobile development .
+  
 
+- ❓ Ask me about anything related to Python , Software Develpment 
+  
+
+- ⚡ Fun fact: I really enjoy C (sometimes)
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BasilNjoga)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/basil-njoga-394414198/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/B6SIL)  

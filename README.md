@@ -1,13 +1,17 @@
 ### <div align="center"> Hey, I'm Basil, a Computer and Software Engineer🧑‍🔧👨‍💻 </div>  
+<br/>
   
 
-- 🔭 I’m currently working on building and scaling Fullstack applications  
+- 🔭 I’m currently working on building and scaling Fullstack applications
+  <br/>
   
 
-- 🌱 I’m currently learning Flutter and NextJs  
+- 🌱 I’m currently learning Flutter and NextJs
+<br/>
   
 
-- ❓ Ask me about anything related to Python and Django  
+- ❓ Ask me about anything related to Python and Django really
+  <br/>
   
 
 - ⚡ Fun fact: I really like C (sometimes)  

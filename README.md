@@ -4,8 +4,8 @@
   
 
 ### <div align="center">Hey, I'm Basil, a Computer and Software Engineer 👨‍💻 </div>  
-\ 
 
+<br/>
 /
 - 🌱 I’m currently working on Fullstack Web and Mobile development . \
   

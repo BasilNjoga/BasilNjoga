@@ -1,6 +1,10 @@
-### Hi there 👋, my name is Basil John Njoga
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
+  
 
-### I am a Computer engineer
+### <div align="center">I'm Basil, a Computer and Software Engineer 👨‍💻</div>  
+  
 
 Skills: Fullstack Development, Data analytics , mechine learning, embedded systems
 

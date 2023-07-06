@@ -1,4 +1,4 @@
-### <div align="center">Hello, I'm Basil a Computer and Software Engineer👨‍💻 </div>  
+### <div align="center">Hey, I'm Basil, a Computer and Software Engineer👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on Fullstack applications  
@@ -91,14 +91,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=BasilNjoga&&style=flat-square" align="center" />

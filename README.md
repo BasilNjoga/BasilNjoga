@@ -1,4 +1,4 @@
-### <div align="center"> Hey, I'm Basil, a Computer and Software Engineer👨‍💻 </div>  
+### <div align="center"> Hey, I'm Basil, a Computer and Software Engineer🧑‍🔧👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on building and scaling Fullstack applications  
@@ -103,3 +103,4 @@
 <br />
 
 ----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

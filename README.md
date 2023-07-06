@@ -101,9 +101,14 @@
 </div>  
   
 
-<br/>  
+<br/>
 
 <div align="center"></div>
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=2evvu1aue1lfi8hg87bn0x87m&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
+
+<br/>  
 <br />
 
 ----

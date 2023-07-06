@@ -6,14 +6,14 @@
 ### <div align="center">Hey, I'm Basil, a Computer and Software Engineer 👨‍💻 </div>  
 
 <br/>
-/
-- 🌱 I’m currently working on Fullstack Web and Mobile development . \
-  
 
-- ❓ Ask me about anything related to Python , Software Develpment 
-  
+- 🌱 I’m currently working on Fullstack Web and Mobile development .
+  <br/>
+- ❓ Ask me about anything related to Python , Software Develpment
+  <br/> 
 
 - ⚡ Fun fact: I really enjoy C (sometimes)
+  <br/>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

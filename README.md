@@ -4,10 +4,10 @@
   
 
 ### <div align="center">Hey, I'm Basil, a Computer and Software Engineer 👨‍💻 </div>  
-  
+\ 
 
-
-- 🌱 I’m currently working on Fullstack Web and Mobile development .
+/
+- 🌱 I’m currently working on Fullstack Web and Mobile development . \
   
 
 - ❓ Ask me about anything related to Python , Software Develpment 

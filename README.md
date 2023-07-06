@@ -3,7 +3,7 @@
 </div>
   
 
-### <div align="center">I'm Basil, a Computer and Software Engineer 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>  
+### <div align="center">Hey, I'm Basil, a Computer and Software Engineer 👨‍💻 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>  
   
 
 Skills: Fullstack Development, Data analytics , mechine learning, embedded systems

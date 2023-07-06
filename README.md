@@ -1,7 +1,7 @@
-### <div align="center">Hey, I'm Basil, a Computer and Software Engineer👨‍💻 </div>  
+### <div align="center"> Hey, I'm Basil, a Computer and Software Engineer👨‍💻 </div>  
   
 
-- 🔭 I’m currently working on Fullstack applications  
+- 🔭 I’m currently working on building and scaling Fullstack applications  
   
 
 - 🌱 I’m currently learning Flutter and NextJs  
@@ -103,4 +103,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

@@ -6,7 +6,7 @@
 - 🌱 I’m currently working with flutter , react and django
 - ❓ Ask me about anything related to Python and Django really
 
-- ⚡ Fun fact: I really like C (sometimes)  
+- ⚡ Fun fact: I really like C ( most sometimes :) )  
   
 
 <br/>  

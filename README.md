@@ -3,7 +3,7 @@
   
 
 - 🔭 I’m currently working on building and scaling Fullstack applications
-- 🌱 I’m currently working with Flutter and Python and Machine learning
+- 🌱 I’m currently working with Flutter,  Python and Azure Machine learning
 - ❓ Ask me about anything related to Flutter and Python really
 
 - ⚡ Fun fact: I really like C ( most times : ) )  

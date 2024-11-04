@@ -3,8 +3,8 @@
   
 
 - 🔭 I’m currently working on building and scaling Fullstack applications
-- 🌱 I’m currently working with flutter , react and django
-- ❓ Ask me about anything related to Python and Django really
+- 🌱 I’m currently working with Flutter and Python in machine learning
+- ❓ Ask me about anything related to Flutter and Python really
 
 - ⚡ Fun fact: I really like C ( most times : ) )  
   
